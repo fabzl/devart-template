@@ -1,10 +1,8 @@
-# Project Title
-OverConnected
+# OverConnected
 
 ## Authors
 - Fabian Andrade aka Fabz github account: fabzl
-- Insert other author(s) name, surname, github account (one per list element)
-
+- 
 ## Description
 
 How much information is out there in the web ? 
