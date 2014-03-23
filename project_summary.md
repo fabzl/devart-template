@@ -5,9 +5,9 @@
 - 
 ## Description
 
-How much information is out there in the web ? 
-What amount of it you able to see everyday?
-How much of that info can we display at the same time?
+How much information is out there in the web ? <br>
+What amount of it you able to see everyday?<br>
+How much of that info can we display at the same time?<br>
 
 Overconnected is an allegoric representation of the internet.
 Using web crawlers to browse through the web and store thousands of random information coming from different websites around the world. 
